@@ -8,6 +8,7 @@ Database: pizzahut
 OBJECTIVE: 
 This project utilizes SQL to conduct a comprehensive analysis of a pizza sales dataset, aiming to extract actionable insights for business improvement. The primary objectives include identifying key sales trends, understanding customer purchasing patterns, and optimizing operational efficiency. By analyzing best-selling products, revenue growth, and customer behavior, this project seeks to provide data-driven recommendations that can enhance marketing strategies, resource allocation, and overall business performance within the pizza sales domain.
 
+![image alt](https://github.com/smrutisikha2001/Pizza_Sales_Ananlysis_sql/blob/b2dad5c8667e3070cd46acf855d898d1c2f8ff35/Pizza_Sales_pic.jpeg)
 
 DATA ANALYSIS AND FINDINGS:
 
